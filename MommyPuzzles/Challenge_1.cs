@@ -2,8 +2,6 @@ namespace MommyPuzzles;
 
 /// <summary>
 /// Replace the code inside of the "Add" method so that it returns the sum of "a" and "b".
-///
-/// To see if you are correct, click the green arrow next to "Challenge_1" and select "Run All" from the drop-down.
 /// </summary>
 public class Challenge_1
 {
